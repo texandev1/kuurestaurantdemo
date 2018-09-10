@@ -1,0 +1,2 @@
+# kuurestaurantdemo
+GitHub Pages
